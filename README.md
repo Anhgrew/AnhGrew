@@ -1,6 +1,23 @@
 ### Hi there - I am AnhGrew 👋
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Anhgrew/profile/blob/master/devcard.svg" width="400" alt="AnhGrew's Dev Card"/></a>
+<div align="left">
 
+  <a href="https://www.linkedin.com/in/anhgrew/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+
+
+  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/Anhgrew/AnhGrew/master/devcard.svg"
+    />
+  </a>
+</div>
 
 **AnhGrew** loves being a ✨ Junior DevOps Engineer ✨as he gets to build something great for the community.
 
