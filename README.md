@@ -1,6 +1,6 @@
-### Hi there 
+# Hi there 👋👋👋
 
-## I am 👋 **AnhGrew** loves being a ✨ DevOps Engineer ✨as he gets to build something great for the community.
+## I am **AnhGrew** loves being a ✨ DevOps Engineer ✨as he gets to build something great for the community.
 
 
 <div align="left">
