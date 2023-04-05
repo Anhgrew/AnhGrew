@@ -24,19 +24,20 @@
 
 
 
-Here are some details about me:
-
-- 🌱 I enjoy learning about new technologies and staying up-to-date with the latest trends.
+## 🔭  Here are some details about me:
 
 
-- 🤔 I am seeking help with creating new start-up projects and bringing innovative ideas to life.
+### - 🌱 I enjoy learning about new technologies and staying up-to-date with the latest trends.
 
 
-- 💬 Feel free to ask me about anything related to DevOps, software development.
+### - 🤔 I am seeking help with creating new start-up projects and bringing innovative ideas to life.
 
 
-- 📫 You can reach me on LinkedIn, where I'm active and responsive.
+### - 💬 Feel free to ask me about anything related to DevOps, software development.
 
 
-- ⚡ Fun fact: I have a great sense of humor and love to make people laugh!
+### - 📫 You can reach me on LinkedIn, where I'm active and responsive.
+
+
+### - ⚡ Fun fact: I have a great sense of humor and love to make people laugh!
 
