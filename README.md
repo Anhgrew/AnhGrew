@@ -1,5 +1,5 @@
 ### Hi there - I am AnhGrew 👋
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Anhgrew/profile/blob/master/devcard.svg" width="400" alt="AnhGrew's Dev Card"/></a>
+
 <div align="left">
 
   <a href="https://www.linkedin.com/in/anhgrew/">
