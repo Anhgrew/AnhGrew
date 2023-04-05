@@ -24,12 +24,13 @@
 
 ## 🔭  Here are some details about me:
 
+🌱 I enjoy learning about new technologies 
 
-🤔 I am seeking help with creating new start-up projects and bringing innovative ideas to life.
+🤔 I am seeking help with creating new start-up projects.
 
+💬 Feel free to ask me about anything related to DevOps
 
 📫 You can reach me on LinkedIn, where I'm active and responsive.
-
 
 ⚡ Fun fact: I have a great sense of humor and love to make people laugh!
 
