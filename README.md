@@ -22,7 +22,9 @@
 
 
 
-### 🔭  Here are some details about me:
+### Here are some details about me:
+
+🔭 I’m currently working as DevOps engineer
 
 🌱 I enjoy learning about new technologies 
 
