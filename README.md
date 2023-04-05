@@ -24,7 +24,7 @@
 
 
 
-# 🔭  Here are some details about me:
+## 🔭  Here are some details about me:
 
 
 ### 🌱 I enjoy learning about new technologies and staying up-to-date with the latest trends.
