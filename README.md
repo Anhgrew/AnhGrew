@@ -1,4 +1,4 @@
-# Hi there 👋👋👋 - I am **AnhGrew** - ✨ DevOps Engineer ✨
+# Hi there ✨ I am **AnhGrew** ✨ DevOps Engineer ✨
 
 
 <div align="left">
