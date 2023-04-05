@@ -27,13 +27,7 @@
 ## 🔭  Here are some details about me:
 
 
-### 🌱 I enjoy learning about new technologies and staying up-to-date with the latest trends.
-
-
 ### 🤔 I am seeking help with creating new start-up projects and bringing innovative ideas to life.
-
-
-### 💬 Feel free to ask me about anything related to DevOps, software development.
 
 
 ### 📫 You can reach me on LinkedIn, where I'm active and responsive.
