@@ -23,13 +23,13 @@
 
 Here are some details about me:
 
-- 🌱 I enjoy learning about new technologies and staying up-to-date with the latest trends. Recently, I have been exploring Jenkins, Azure DevOps, Kubernetesband Terraform and AWS to enhance my skills.
+- 🌱 I enjoy learning about new technologies and staying up-to-date with the latest trends.
 
 
 - 🤔 I am seeking help with creating new start-up projects and bringing innovative ideas to life.
 
 
-- 💬 Feel free to ask me about anything related to DevOps, software development, or technology in general. I'm always happy to share my knowledge and experience!
+- 💬 Feel free to ask me about anything related to DevOps, software development.
 
 
 - 📫 You can reach me on LinkedIn, where I'm active and responsive.
