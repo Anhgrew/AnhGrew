@@ -1,4 +1,4 @@
-# Hi there ✨ I am **AnhGrew** ✨ DevOps Engineer
+## Hi there ✨ I am **AnhGrew** ✨ DevOps Engineer
 
 
 <div align="left">
@@ -22,7 +22,7 @@
 
 
 
-## 🔭  Here are some details about me:
+### 🔭  Here are some details about me:
 
 🌱 I enjoy learning about new technologies 
 
